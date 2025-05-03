@@ -6,3 +6,7 @@ os
 io
 base64
 openai
+streamlit>=1.24.1
+pandas>=2.0.0
+Pillow>=9.0.0
+openai>=0.27.0
